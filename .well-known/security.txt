@@ -1,0 +1,3 @@
+Contact: mailto: bruno@tangerins.com
+Expires: 2025-12-31T23:59:00Z
+Preferred-Languages: en
